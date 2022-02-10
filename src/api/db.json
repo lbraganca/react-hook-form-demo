@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@runtime-revolution.com",
+      "observation": "The system admin",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "test.2@runtime-revolution.com",
+      "observation": "The first non-admin user",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "email": "luisbraganca@protonmail.com",
+      "observation": "An outsider with low privilege",
+      "role": "guest"
+    },
+    {
+      "email": "dummy@dummy.com",
+      "role": "guest",
+      "observation": "A dummy user",
+      "id": 4
+    }
+  ]
+}
